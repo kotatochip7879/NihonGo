@@ -30,4 +30,4 @@ Crews :
 > - Socket Sending (realtime/compute)
 > - Minigame Page Changing 
 
-## Comming Soon...
+## Comming Soon น๊ะจ๊ะ
