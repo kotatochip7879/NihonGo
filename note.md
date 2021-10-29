@@ -1,4 +1,4 @@
-# This project i contributed by 
+# This project is contributed by 
     - Amorn Phanturat
     - Ueaangkun Intamong
     - Prawit Pongpipat
